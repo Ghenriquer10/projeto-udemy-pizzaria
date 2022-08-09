@@ -1,4 +1,4 @@
-Projeto Pizzaria
+# Projeto Pizzaria
 
 App mobile do projeto em que estou estudando atualmente através do curso UDEMY, com as tecs: React, Node.js, React Native e Typescript.
 
