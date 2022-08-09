@@ -18,3 +18,29 @@ Além do usuário também serão persistidos dados de produtos, categorias de pr
 
 ![db_pizzaria](https://user-images.githubusercontent.com/61561169/179373868-2f13ef18-be4f-47b5-8600-b2e4d448462f.png)
 
+## Prisma Models
+
+![models](https://user-images.githubusercontent.com/61561169/183743841-7710e447-2dcb-401d-97d2-6861867f2712.png)
+
+## Controllers da aplicação
+
+![controllers](https://user-images.githubusercontent.com/61561169/183743938-14288db6-8bd4-411d-a856-b33d6eee44bb.png)
+
+## Services da aplicação
+
+![services](https://user-images.githubusercontent.com/61561169/183743976-fcb49299-9f04-4029-b077-f0e069bf1d1d.png)
+
+## Rotas da aplicação
+
+![routes](https://user-images.githubusercontent.com/61561169/183744132-f1d01e4f-6d7a-42ec-a7f3-171c4bdbda8b.png)
+
+## Folders 
+
+![folders](https://user-images.githubusercontent.com/61561169/183744181-c139f559-6d07-46c5-a95d-bf7ca1483299.png)
+
+## Insomnia
+
+![Screenshot_1](https://user-images.githubusercontent.com/61561169/183744302-a2ee69e6-751d-4890-bc65-d3f6af69f1a8.png)
+
+
+
