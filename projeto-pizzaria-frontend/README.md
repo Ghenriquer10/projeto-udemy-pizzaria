@@ -1,4 +1,4 @@
-Projeto Pizzaria
+# Projeto Pizzaria
 Frontend do projeto em que estou estudando atualmente através do curso UDEMY, com as tecs: React, Node.js, React Native e Typescript.
 
 O frontend foi desenvolvido em React.js, Next.js, typescript e SASS para a estilização, também conta com JWT para a criação de TOKEN's e criptogtafia para a proteção de senhas.
