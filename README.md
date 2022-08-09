@@ -9,6 +9,9 @@ Após os produtos estarem selecionados o mesmo é enviado como rascunho e status
 
 Dentro de cada pasta da stack front, back ou mobile, está todo o código da aplicação além das telas tiradas de cada uma das aplicações em execução.
 
+# Aplicação rodando
+https://user-images.githubusercontent.com/61561169/183763072-7f1fb2d2-f504-48d2-b1f4-8e222af23cab.mp4
+
 # Backend
 
 ![models](https://user-images.githubusercontent.com/61561169/183754608-525da70c-182c-405e-a227-6a98a32bdec4.png)
