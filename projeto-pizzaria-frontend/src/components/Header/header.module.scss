@@ -1,0 +1,52 @@
+.headerContainer{
+    height: 5rem;
+    color: var(--white);
+}
+.headerContent{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    height: 5rem;
+    max-width: 1120px; 
+    margin: 0 auto;
+
+    @media (min-width: 320px) and (max-width: 720px) {
+        flex-direction: column;
+    }
+
+
+    img{
+        cursor: pointer;
+    }
+}
+
+.navContent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    justify-content: space-around;
+
+    @media (min-width: 320px) and (max-width: 720px) {
+        width: 100%;
+    }
+
+    button{
+        background: transparent;
+        border: none;
+        color: var(--white);
+        &:hover{
+            transition: all 0.5s;
+            color: red;
+            transform: scale(1.2);
+        }
+    }
+
+    a:hover{
+        transition: all 0.5s;
+        color: var(--red-900);
+    }
+
+    
+}
