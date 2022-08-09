@@ -1,34 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Projeto Pizzaria
+Frontend do projeto em que estou estudando atualmente através do curso UDEMY, com as tecs: React, Node.js, React Native e Typescript.
 
-## Getting Started
+O frontend foi desenvolvido em React.js, Next.js, typescript e SASS para a estilização, também conta com JWT para a criação de TOKEN's e criptogtafia para a proteção de senhas.
 
-First, run the development server:
+O projeto funciona em torno de um sistema de pizzaria, onde haverá um dispositivo web na cozinha que receberá os pedidos a serem feitos e entregues, e um dispositivo mobile para o garçom que fará o login e após a autenticação terá disponível as opções de selecionar a mesa, o nome do cliente e os itens escolhidos por ele.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Após os produtos estarem selecionados o mesmo é enviado como rascunho e status de não finalizado, onde ficará assim até o pedido ficar pronto.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Login usuário
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![login](https://user-images.githubusercontent.com/61561169/183746719-a48eaa50-18b3-43e8-9b03-85d7af1db020.png)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Cadastro usuário
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+![cadastro](https://user-images.githubusercontent.com/61561169/183746773-b54c3353-8426-41eb-94d8-5c724d692980.png)
 
-## Learn More
+## Menu sem pedidos na cozinha
 
-To learn more about Next.js, take a look at the following resources:
+![sem pedidos](https://user-images.githubusercontent.com/61561169/183746808-9a5070be-4058-4ae0-baa8-0b2169c0f8cd.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Pedidos em espera
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![ultimos pedidos](https://user-images.githubusercontent.com/61561169/183746889-f3bed1dc-0131-457a-97b5-14dcaa521b78.png)
 
-## Deploy on Vercel
+## Detalhes do pedido em espera
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![detalhes pedido](https://user-images.githubusercontent.com/61561169/183746997-842a70b3-d14b-459b-b759-af88685d18c2.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Cadastrar categoria de produto
+
+![categoria](https://user-images.githubusercontent.com/61561169/183746917-36f2ec5c-d3af-4cf4-b335-9b01f33ef318.png)
+
+## Cadastrar produto
+
+![produto](https://user-images.githubusercontent.com/61561169/183747034-0b55c013-05d3-4aa1-99dd-d99476e0692f.png)
+
+
+
+
